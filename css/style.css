@@ -408,7 +408,7 @@ ol {
 }
 
 .main-navbar {
-	background: #282828;
+	background: #2F4F4F;
 }
 
 .slicknav_menu {
@@ -743,7 +743,7 @@ ol {
 }
 
 .feature:nth-child(2) {
-	background: #f51167;
+	background: #2F4F4F;
 }
 
 .feature:nth-child(2) h2 {
@@ -963,7 +963,7 @@ ol {
 ---------------------*/
 
 .banner {
-	padding: 50px 34px 47px;
+	padding: 125px 34px 47px;  
 	position: relative;
 	margin-bottom: 70px;
 }
@@ -1004,7 +1004,7 @@ ol {
 ---------------------*/
 
 .footer-section {
-	background: #282828;
+	background: #050B2B;
 	padding-top: 60px;
 }
 
@@ -1125,7 +1125,7 @@ ol {
 }
 
 .social-links-warp {
-	border-top: 2px solid #3b3535;
+
 	padding: 46px 0;
 }
 
@@ -2095,7 +2095,7 @@ ol {
 }
 
 /* ----------------
-  Contact Page
+  Contact Us
 ---------------------*/
 
 .contact-section {
